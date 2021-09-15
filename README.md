@@ -15,9 +15,10 @@ This is an application using node.js that will deploy to Heroku using path, rout
 # Installation
 * npm install to install api's
 * git clone repo
+* npm start to run on local host
 
 # Usage 
-To use this application go on the Heroku server[https://stark-brook-30614.herokuapp.com/] for the working application.
+To use this application go on the [Heroku server](https://stark-brook-30614.herokuapp.com/) for the working application.
 
 # Technologies
 path
