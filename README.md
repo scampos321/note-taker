@@ -21,13 +21,13 @@ This is an application using node.js that will deploy to Heroku using path, rout
 To use this application go on the [Heroku server](https://stark-brook-30614.herokuapp.com/) for the working application.
 
 # Technologies
-path
-Heroku
-Express.js
-node.js
-routes
-fs
-uuid
+1. path
+2. Heroku
+3. Express.js
+4. node.js
+5. routes
+6. fs
+7. uuid
 
 # Demo Video for Application
 [Deployed Demo](https://drive.google.com/file/d/1x-UCzYF0b_JILsxavIoK863BcFLsofAh/view)
